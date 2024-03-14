@@ -1,6 +1,6 @@
 {
   "name": "simple",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "moment": "^2.30.1"
   }
